@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+    background-image: url(CS.jpg);
+    font-family: 'Times New Roman', Times, serif;}
+
+header {background-color: white;}
+
+h1, h2 {color: white;
+text-align: center;
+    font-size: 30px;}
+
+h3 {color: white;
+    text-align: left;
+    font-size: 30px;
+    }
+
+p {color: white;
+text-align: center;
+font-size: 20px;}
+
+ol {
+    color: white;
+    font-size: 20px;
+}
+
+a { color: lightblue;
+text-align: center;}
+
+nav > ul {line-height: 2em;
+    list-style-type:none;
+    padding-left: 35px;}
+
+section {background-color: none;
+        width: 80%;
+        font-size: 1.2em;
+        text-align: center;
+        }
+
+footer {color: white;
+text-align:bottom;}
